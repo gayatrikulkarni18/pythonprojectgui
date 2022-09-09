@@ -1,0 +1,23 @@
+Step1 - We downloaded squlite tools from squlite3 site and dbsqulite and gui or squlite 3 sites given below:-
+https://www.sqlitetutorial.net/download-install-sqlite/
+https://sqlitebrowser.org/dl/
+Step 2- Making file and running commands
+We made squlite folder Pasted exe file from the tools downloaded
+We Wrote commands in command line
+a)Create a Database-The first step is to create database and here i am going to create a database with name student. Open or Create any python file and and type the following code to create SQLite database.
+or you can use dbbrowser gui
+b)Create Table-Now the second step is to create table inside database and there is no need to create a separate python file to do this you can run these programs in same python file .So Just type the following code into your python file and run this code to create table STUD_REGISTRATION inside your student database. 
+Here execute() is a predefined function which is used to execute any query of SQLite
+c)Insert data into table-Now its time to insert some records into our database so we can perform search operation on it. Here i am inserting two records into table but you can insert as many as you can. Following is the code to insert data into table.
+d)Display and Search in SQLite -Now its time to insert some records into our database so we can perform search operation on it. Here i am inserting two records into table but you can insert as many as you can. Following is the code to insert data into table.
+the sequence code for references is
+1)project.py file then
+2)pr1.py
+3)pr2.py
+4)pr3.py
+5)pr4.py
+6)pr5.py
+execute or run pr5.py file for the gui output 
+NOTE* Create a database before writing and executing the code.Please DON'T MISS ANY STEP
+https://www.krazyprogrammer.com/2020/12/how-to-search-data-from-sqlite-in.html
+the above site we refered with modifications.
